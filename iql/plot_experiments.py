@@ -15,7 +15,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-from mdp.value_iteration import find_policy
+from iql.mdp.value_iteration import find_policy
 
 font = {'family' : 'serif',
         'weight' : 'bold',
